@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactgridassignment2/static/css/main.d6083990.css",
+    "main.js": "/reactgridassignment2/static/js/main.eab567da.js",
+    "static/js/787.bca44aa8.chunk.js": "/reactgridassignment2/static/js/787.bca44aa8.chunk.js",
+    "index.html": "/reactgridassignment2/index.html",
+    "main.d6083990.css.map": "/reactgridassignment2/static/css/main.d6083990.css.map",
+    "main.eab567da.js.map": "/reactgridassignment2/static/js/main.eab567da.js.map",
+    "787.bca44aa8.chunk.js.map": "/reactgridassignment2/static/js/787.bca44aa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6083990.css",
+    "static/js/main.eab567da.js"
+  ]
+}
